@@ -4,7 +4,7 @@
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me: lu721@gapp.nthu.edu.tw
+- 📫 How to reach me: selly.lu@outlook.com
 
 <!---
 sellylu/sellylu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
